@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ha5fdJRY48R5RWVT+hWFLANZbE4jLCMlxIOmjY9eF0WlDnQZ4dqhzbdD/ytzl8AiVeKOmeWbSIskFbVKa8AHsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Servicios\\EstructuraServicioGeneral_Copia\\EstructuraServicioGeneral.Commons\\EstructuraServicioGeneral.Commons.csproj",
+  "expectedPackageFiles": [
+    "E:\\Users\\mj.montilla\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EstructuraServicioGeneral.Models\EstructuraServicioGeneral.Models.csproj" />
+    <ProjectReference Include="..\EstructuraServicioGeneral.ViewModels\EstructuraServicioGeneral.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

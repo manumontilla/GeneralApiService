@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EstructuraServicioGeneralNoCore</name>
+    </assembly>
+    <members>
+        <member name="M:EstructuraServicioGeneralNoCore.Controllers.FooController.GetFoos">
+            <summary>
+            Función que trae todos los Foo
+            </summary>
+            <returns>Foos para mostrar en la web</returns>
+        </member>
+        <member name="M:EstructuraServicioGeneralNoCore.Controllers.FooController.GetFoo(System.String)">
+            <summary>
+            Funcion que trae el foo seleccionado
+            </summary>
+            <param name="idFoo">idFoo a traer</param>
+            <returns>Foo para mostrar en la web</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,9 @@
+C:\Projects\Servicios\EstructuraServicioGeneral\EstructuraServicioGeneral.Commons\bin\Debug\netstandard2.0\EstructuraServicioGeneral.Commons.deps.json
+C:\Projects\Servicios\EstructuraServicioGeneral\EstructuraServicioGeneral.Commons\bin\Debug\netstandard2.0\EstructuraServicioGeneral.Commons.dll
+C:\Projects\Servicios\EstructuraServicioGeneral\EstructuraServicioGeneral.Commons\bin\Debug\netstandard2.0\EstructuraServicioGeneral.Commons.pdb
+C:\Projects\Servicios\EstructuraServicioGeneral\EstructuraServicioGeneral.Commons\obj\Debug\netstandard2.0\EstructuraServicioGeneral.Commons.csprojAssemblyReference.cache
+C:\Projects\Servicios\EstructuraServicioGeneral\EstructuraServicioGeneral.Commons\obj\Debug\netstandard2.0\EstructuraServicioGeneral.Commons.csproj.CoreCompileInputs.cache
+C:\Projects\Servicios\EstructuraServicioGeneral\EstructuraServicioGeneral.Commons\obj\Debug\netstandard2.0\EstructuraServicioGeneral.Commons.AssemblyInfoInputs.cache
+C:\Projects\Servicios\EstructuraServicioGeneral\EstructuraServicioGeneral.Commons\obj\Debug\netstandard2.0\EstructuraServicioGeneral.Commons.AssemblyInfo.cs
+C:\Projects\Servicios\EstructuraServicioGeneral\EstructuraServicioGeneral.Commons\obj\Debug\netstandard2.0\EstructuraServicioGeneral.Commons.dll
+C:\Projects\Servicios\EstructuraServicioGeneral\EstructuraServicioGeneral.Commons\obj\Debug\netstandard2.0\EstructuraServicioGeneral.Commons.pdb
